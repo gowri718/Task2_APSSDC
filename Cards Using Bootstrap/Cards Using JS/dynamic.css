@@ -1,0 +1,20 @@
+#main{
+	background-color: azure;
+	text-align: center;
+}
+
+.card{
+	width: 25%;
+	background: rgb(158, 188, 245);
+	box-shadow: 6px 6px 6px -6px;
+}
+img{
+	width: 40%;
+	height: 50%;
+	border-radius: 40%;
+}
+.profileCards{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}

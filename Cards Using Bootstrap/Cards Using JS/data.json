@@ -1,0 +1,34 @@
+{
+	"details":{
+		"name":"IJHS",
+		 "age":25,
+		 "courses":["English","Maths","Physics"]
+	},
+	"trainers":[
+		{
+			"name":"Kumar",
+			"phone":852741223,
+			"email":"kumar@infant.in",
+			"hobbies":["reading books,playing chess"],
+			"address":"Srikakulam, AP"
+		},
+		{
+			"name":"Syju",
+			"phone":741852963,
+			"email":"syju23@infant.in",
+			"address":"Yernakulam, Kerala"
+		},
+		{
+			"name":"Juval",
+			"phone":852741223,
+			"email":"juvaljos@infant.in",
+			"address":"Kottayam, Kerala"
+		},
+	],
+
+	"tdata":{
+		"name":"N. Surya Narayana",
+		"phone":9639852744,
+		"email":"surya.n@apssdc.in"
+	}
+}
